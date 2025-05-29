@@ -5,7 +5,7 @@
 	<packaging>war</packaging>
 	<version>17.0.4-SNAPSHOT</version>
 	<name>DevOps Demo Project</name>
-	<url>http://maven.apache.org</url>
+	<url>http://maven.apache.org</url
 	
 	<dependencies>
 		<dependency>
